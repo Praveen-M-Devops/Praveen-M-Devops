@@ -1,21 +1,35 @@
 # Hi, I'm Praveen Murugesan 👋
 
-Aspiring DevOps Engineer focused on learning to automate, build, and ship reliable software.
+### 🚀 Aspiring DevOps Engineer
 
-## About
+> *Learning to automate, build, and ship reliable software, one pipeline at a time.*
 
-I'm building skills in automation, containers, and CI/CD. I learn by working on small projects, documenting what I find, and improving them over time.
+---
 
-## Skills
+## 🧑‍💻 About Me
 
-- Linux and shell basics
-- Git and GitHub workflows
-- Python scripting for automation
-- Docker (learning)
-- CI/CD pipelines (learning)
-- Jenkins (learning)
+I'm building skills in automation, containers, and CI/CD. I learn by working on small projects, documenting what I find, and improving them over time. 🌱
 
-## Contact
+## 🛠️ Skills
 
-- LinkedIn: https://www.linkedin.com/in/praveen-murugesan-140ba922b/
-- Email: your-email@example.com
+- 🐧 Linux and shell basics
+- 🌿 Git and GitHub workflows
+- 🐍 Python scripting for automation
+- 🐳 Docker *(learning)*
+- 🔁 CI/CD pipelines *(learning)*
+- 🏗️ Jenkins *(learning)*
+
+## 📈 Currently Focusing On
+
+- 🎯 Writing Dockerfiles and running containers
+- 🎯 Building pipelines that build, test, and deploy automatically
+- 🎯 Creating and maintaining Jenkins pipelines as code
+
+## 📫 Contact
+
+- 💼 LinkedIn: https://www.linkedin.com/in/praveen-murugesan-140ba922b/
+- 📧 Email: your-email@example.com
+
+---
+
+<p align="center"><i>✨ Automate the repetitive, document the rest. ✨</i></p>
