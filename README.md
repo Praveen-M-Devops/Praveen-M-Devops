@@ -27,8 +27,8 @@ I'm building skills in automation, containers, and CI/CD. I learn by working on 
 
 ## 📫 Contact
 
-- 💼 LinkedIn: https://www.linkedin.com/in/praveen-murugesan-140ba922b/
-- 📧 Email: your-email@example.com
+- 💼 LinkedIn: https://www.linkedin.com/in/praveen-murugesan-140ba922b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmrgU%2FiwrQ3uB5xKP4LFceg%3D%3D
+- 📧 Email: mpraveeneee93@gmail.com
 
 ---
 
